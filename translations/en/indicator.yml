@@ -18,6 +18,7 @@ sources: Sources
 geographical_area: Geographical Area
 unit_of_measurement: Unit of Measurement
 footnote: Footnote
+copyright: Copyright
 units_type: Units type
 dataset_size_warning: There are too many datasets to show on the chart. Not all
   will be shown until you remove some selections.
